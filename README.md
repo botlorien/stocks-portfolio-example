@@ -98,4 +98,4 @@ ValueError: Lançado quando uma operação incorreta é tentada, como tentar adi
 Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests ou abrir issues.
 
 ## Licença
-Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE.md](https://github.com/botlorien/Bot_ml_images_classify/blob/main/LICENSE) para mais detalhes.
+Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE.md](https://github.com/botlorien/stocks-portfolio-example/blob/main/LICENSE) para mais detalhes.
