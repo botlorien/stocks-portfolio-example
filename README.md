@@ -77,7 +77,20 @@ Retorna True se houver ao menos uma ação com valor positivo. Caso contrário, 
 ## Requisitos
 Python 3.7 ou superior.
 ## Instalação
-Basta copiar o código da classe StocksPortfolio e importar no seu projeto.
+1. Clone o repositório:
+
+   ```bash
+   git clone https://github.com/botlorien/stocks-portfolio-example.git
+   ```
+2. Navegue até o diretório do projeto:
+   ```bash
+   cd stocks-portfolio-example
+   ```
+3. Execução:
+   ```bash
+   python stocks_portfolio.py
+   ```
+
 
 ## Erros Possíveis
 ValueError: Lançado quando uma operação incorreta é tentada, como tentar adicionar um objeto que não seja um StocksPortfolio ou multiplicar por um valor que não seja numérico.
